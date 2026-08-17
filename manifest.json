@@ -1,0 +1,18 @@
+{
+  "name": "Daglig todo",
+  "short_name": "Daglig todo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#F2E9DA",
+  "theme_color": "#F2E9DA",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
