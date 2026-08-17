@@ -9,11 +9,9 @@
 
 const TASK_TEMPLATE = [
   { id: "medicin", text: "Ta medicin" },
-  { id: "vatten", text: "Drick ett glas vatten" },
-  { id: "saeng", text: "Bädda sängen" },
-  { id: "disk", text: "Diska undan" },
-  { id: "sopor", text: "Ta ut soporna" },
-  { id: "kvall", text: "Lägg fram kläder för imorgon" },
+  { id: "kreatin", text: "Drick kreatin" },
+  { id: "stada", text: "Städa 15 min" },
+  { id: "aktivitet", text: "30 min aktivitet (promenad/träning)" },
 ];
 
 /* ================================================================= */
